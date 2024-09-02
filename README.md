@@ -7,7 +7,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando qu
 * Arthur Luís Santos Gonçalves
 * Thiago Andrade Monteiro
 * Ettore Motta Gazzinelli
-* Marcos Drummond
+* Marcos Drummond Müller
 
 ## Professor
 
