@@ -1,6 +1,6 @@
-# Nome do projeto
+# O Impacto da Falta de Faculdades Públicas na Acessibilidade ao Ensino Superior
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+Este estudo analisa como a falta de faculdades públicas em certas regiões do Brasil afeta a oferta de cursos e a acessibilidade ao ensino superior. A pesquisa investiga se essa ausência limita as oportunidades educacionais e o impacto disso no desenvolvimento das regiões.
 
 ## Integrantes
 
